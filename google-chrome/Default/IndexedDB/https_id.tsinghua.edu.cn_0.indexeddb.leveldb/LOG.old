@@ -1,0 +1,15 @@
+2024/09/03-11:23:25.579 927 Reusing MANIFEST /home/sunya/.config/google-chrome/Default/IndexedDB/https_id.tsinghua.edu.cn_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/03-11:23:25.580 927 Recovering log #4
+2024/09/03-11:23:25.580 927 Reusing old log /home/sunya/.config/google-chrome/Default/IndexedDB/https_id.tsinghua.edu.cn_0.indexeddb.leveldb/000004.log 
+2024/09/03-11:23:27.675 928 Level-0 table #8: started
+2024/09/03-11:23:27.677 928 Level-0 table #8: 564 bytes OK
+2024/09/03-11:23:27.680 928 Delete type=0 #4
+2024/09/03-11:23:27.681 928 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/03-11:23:27.681 928 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x19\x00o\x00t\x00h\x00e\x00r\x00,\x00C\x00h\x00r\x00o\x00m\x00e\x00/\x001\x002\x008\x00f\x00i\x00n\x00g\x00e\x00r\x00K\x00e\x00y' @ 81 : 1
+2024/09/03-11:23:27.681 928 Compacting 1@1 + 1@2 files
+2024/09/03-11:23:27.683 928 Generated table #9@1: 30 keys, 829 bytes
+2024/09/03-11:23:27.683 928 Compacted 1@1 + 1@2 files => 829 bytes
+2024/09/03-11:23:27.685 928 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/03-11:23:27.686 928 Delete type=2 #5
+2024/09/03-11:23:27.686 928 Delete type=2 #8
+2024/09/03-11:23:27.687 928 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x19\x00o\x00t\x00h\x00e\x00r\x00,\x00C\x00h\x00r\x00o\x00m\x00e\x00/\x001\x002\x008\x00f\x00i\x00n\x00g\x00e\x00r\x00K\x00e\x00y' @ 81 : 1 .. (end); will stop at (end)

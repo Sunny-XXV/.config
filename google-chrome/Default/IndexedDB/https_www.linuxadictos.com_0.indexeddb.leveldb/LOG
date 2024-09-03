@@ -1,0 +1,6 @@
+2024/09/02-10:13:33.771 a81 Creating DB /home/sunya/.config/google-chrome/Default/IndexedDB/https_www.linuxadictos.com_0.indexeddb.leveldb since it was missing.
+2024/09/02-10:13:33.775 a81 Reusing MANIFEST /home/sunya/.config/google-chrome/Default/IndexedDB/https_www.linuxadictos.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/02-10:14:01.177 a82 Level-0 table #5: started
+2024/09/02-10:14:01.179 a82 Level-0 table #5: 5878 bytes OK
+2024/09/02-10:14:01.183 a82 Delete type=0 #3
+2024/09/02-10:14:01.183 a82 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

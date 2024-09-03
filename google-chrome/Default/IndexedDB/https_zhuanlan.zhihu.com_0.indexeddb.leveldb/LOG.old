@@ -1,0 +1,6 @@
+2024/08/31-14:43:20.165 ed49 Creating DB /home/sunya/.config/google-chrome/Default/IndexedDB/https_zhuanlan.zhihu.com_0.indexeddb.leveldb since it was missing.
+2024/08/31-14:43:20.169 ed49 Reusing MANIFEST /home/sunya/.config/google-chrome/Default/IndexedDB/https_zhuanlan.zhihu.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/31-15:02:41.443 ed4a Level-0 table #5: started
+2024/08/31-15:02:41.446 ed4a Level-0 table #5: 20141 bytes OK
+2024/08/31-15:02:41.448 ed4a Delete type=0 #3
+2024/08/31-15:02:41.448 ed4a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

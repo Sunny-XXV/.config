@@ -1,0 +1,6 @@
+2024/08/31-16:05:08.157 11e67 Creating DB /home/sunya/.config/google-chrome/Default/WebStorage/12/IndexedDB/indexeddb.leveldb since it was missing.
+2024/08/31-16:05:08.161 11e67 Reusing MANIFEST /home/sunya/.config/google-chrome/Default/WebStorage/12/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/08/31-16:05:15.875 11e5a Level-0 table #5: started
+2024/08/31-16:05:15.877 11e5a Level-0 table #5: 1210 bytes OK
+2024/08/31-16:05:15.879 11e5a Delete type=0 #3
+2024/08/31-16:05:15.880 11e5a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

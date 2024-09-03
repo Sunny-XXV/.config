@@ -1,0 +1,21 @@
+2024/09/03-09:36:09.310 927 Reusing MANIFEST /home/sunya/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/09/03-09:36:09.312 927 Recovering log #8
+2024/09/03-09:36:09.314 927 Reusing old log /home/sunya/.config/google-chrome/Default/Sync Data/LevelDB/000008.log 
+2024/09/03-10:03:04.719 928 Level-0 table #12: started
+2024/09/03-10:03:04.727 928 Level-0 table #12: 111919 bytes OK
+2024/09/03-10:03:04.730 928 Delete type=0 #8
+2024/09/03-10:17:44.661 935 Level-0 table #14: started
+2024/09/03-10:17:44.670 935 Level-0 table #14: 86735 bytes OK
+2024/09/03-10:17:44.673 935 Delete type=0 #11
+2024/09/03-11:34:11.745 927 Level-0 table #16: started
+2024/09/03-11:34:11.752 927 Level-0 table #16: 94210 bytes OK
+2024/09/03-11:34:11.755 927 Delete type=0 #13
+2024/09/03-11:34:11.755 927 Compacting 4@0 + 1@1 files
+2024/09/03-11:34:11.762 927 Generated table #17@0: 197 keys, 32818 bytes
+2024/09/03-11:34:11.763 927 Compacted 4@0 + 1@1 files => 32818 bytes
+2024/09/03-11:34:11.764 927 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/03-11:34:11.765 927 Delete type=2 #7
+2024/09/03-11:34:11.765 927 Delete type=2 #9
+2024/09/03-11:34:11.765 927 Delete type=2 #12
+2024/09/03-11:34:11.765 927 Delete type=2 #14
+2024/09/03-11:34:11.765 927 Delete type=2 #16

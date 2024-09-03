@@ -1,0 +1,12 @@
+2024/09/03-13:03:55.971 973b Reusing MANIFEST /home/sunya/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/09/03-13:03:55.972 973b Recovering log #15
+2024/09/03-13:03:55.972 973b Reusing old log /home/sunya/.config/google-chrome/Default/Sync Data/LevelDB/000015.log 
+2024/09/03-13:26:32.246 9748 Level-0 table #20: started
+2024/09/03-13:26:32.251 9748 Level-0 table #20: 103649 bytes OK
+2024/09/03-13:26:32.253 9748 Delete type=0 #15
+2024/09/03-13:52:03.306 973a Level-0 table #22: started
+2024/09/03-13:52:03.314 973a Level-0 table #22: 232403 bytes OK
+2024/09/03-13:52:03.318 973a Delete type=0 #19
+2024/09/03-14:56:18.702 973b Level-0 table #24: started
+2024/09/03-14:56:18.710 973b Level-0 table #24: 235620 bytes OK
+2024/09/03-14:56:18.714 973b Delete type=0 #21

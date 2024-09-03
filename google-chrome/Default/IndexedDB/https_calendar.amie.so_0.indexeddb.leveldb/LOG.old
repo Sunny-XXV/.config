@@ -1,0 +1,14 @@
+2024/09/02-21:16:43.569 957 Reusing MANIFEST /home/sunya/.config/google-chrome/Default/IndexedDB/https_calendar.amie.so_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/02-21:16:43.570 957 Recovering log #14
+2024/09/02-21:16:43.571 957 Reusing old log /home/sunya/.config/google-chrome/Default/IndexedDB/https_calendar.amie.so_0.indexeddb.leveldb/000014.log 
+2024/09/02-21:16:43.572 957 Delete type=2 #12
+2024/09/02-21:16:44.040 958 Level-0 table #19: started
+2024/09/02-21:16:44.042 958 Level-0 table #19: 14462 bytes OK
+2024/09/02-21:16:44.044 958 Delete type=0 #14
+2024/09/02-21:16:44.044 958 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 2855 : 1
+2024/09/02-21:16:44.044 958 Compacting 1@0 + 1@1 files
+2024/09/02-21:16:44.048 958 Generated table #20@0: 1163 keys, 41597 bytes
+2024/09/02-21:16:44.048 958 Compacted 1@0 + 1@1 files => 41597 bytes
+2024/09/02-21:16:44.050 958 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/02-21:16:44.050 958 Delete type=2 #19
+2024/09/02-21:16:44.050 958 Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 2855 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)

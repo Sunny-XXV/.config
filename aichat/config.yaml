@@ -1,0 +1,9 @@
+model: GPTAPI.US
+clients:
+- type: openai-compatible
+  name: GPTAPI.US
+  api_base: https://api.gptapi.us/v1/chat/completions
+  api_key: sk-LoRwMK0dPaFM0Ji43b775912Be904c09893308Ff1eFeCc77
+  models:
+  - name: gpt-4o
+    max_input_tokens: null

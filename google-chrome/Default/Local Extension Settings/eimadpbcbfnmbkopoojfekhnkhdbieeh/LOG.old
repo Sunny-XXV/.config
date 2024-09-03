@@ -1,0 +1,57 @@
+2024/09/03-09:36:09.721 929 Reusing MANIFEST /home/sunya/.config/google-chrome/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
+2024/09/03-09:36:09.723 929 Recovering log #68
+2024/09/03-09:36:09.730 929 Reusing old log /home/sunya/.config/google-chrome/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/000068.log 
+2024/09/03-09:36:20.727 928 Level-0 table #72: started
+2024/09/03-09:36:20.738 928 Level-0 table #72: 1825982 bytes OK
+2024/09/03-09:36:20.741 928 Delete type=0 #68
+2024/09/03-09:36:20.743 928 Compacting 4@0 + 1@1 files
+2024/09/03-09:36:20.754 928 Generated table #73@0: 4 keys, 38832 bytes
+2024/09/03-09:36:20.754 928 Compacted 4@0 + 1@1 files => 38832 bytes
+2024/09/03-09:36:20.758 928 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/03-09:36:20.758 928 Delete type=2 #62
+2024/09/03-09:36:20.758 928 Delete type=2 #64
+2024/09/03-09:36:20.758 928 Delete type=2 #66
+2024/09/03-09:36:20.758 928 Delete type=2 #69
+2024/09/03-09:36:20.759 928 Delete type=2 #72
+2024/09/03-10:02:27.993 929 Level-0 table #75: started
+2024/09/03-10:02:28.009 929 Level-0 table #75: 1789277 bytes OK
+2024/09/03-10:02:28.013 929 Delete type=0 #71
+2024/09/03-10:06:51.687 927 Level-0 table #77: started
+2024/09/03-10:06:51.704 927 Level-0 table #77: 1812906 bytes OK
+2024/09/03-10:06:51.708 927 Delete type=0 #74
+2024/09/03-10:49:31.754 928 Level-0 table #79: started
+2024/09/03-10:49:31.773 928 Level-0 table #79: 1814092 bytes OK
+2024/09/03-10:49:31.777 928 Delete type=0 #76
+2024/09/03-11:15:39.551 928 Level-0 table #81: started
+2024/09/03-11:15:39.565 928 Level-0 table #81: 1815195 bytes OK
+2024/09/03-11:15:39.571 928 Delete type=0 #78
+2024/09/03-11:15:39.573 928 Compacting 4@0 + 1@1 files
+2024/09/03-11:15:39.585 928 Generated table #82@0: 5 keys, 42041 bytes
+2024/09/03-11:15:39.585 928 Compacted 4@0 + 1@1 files => 42041 bytes
+2024/09/03-11:15:39.587 928 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/03-11:15:39.588 928 Delete type=2 #73
+2024/09/03-11:15:39.588 928 Delete type=2 #75
+2024/09/03-11:15:39.588 928 Delete type=2 #77
+2024/09/03-11:15:39.588 928 Delete type=2 #79
+2024/09/03-11:15:39.588 928 Delete type=2 #81
+2024/09/03-11:30:58.586 929 Level-0 table #84: started
+2024/09/03-11:30:58.600 929 Level-0 table #84: 1845229 bytes OK
+2024/09/03-11:30:58.603 929 Delete type=0 #80
+2024/09/03-12:57:25.095 929 Level-0 table #86: started
+2024/09/03-12:57:25.104 929 Level-0 table #86: 1835347 bytes OK
+2024/09/03-12:57:25.106 929 Delete type=0 #83
+2024/09/03-13:00:08.625 928 Level-0 table #88: started
+2024/09/03-13:00:08.637 928 Level-0 table #88: 1860498 bytes OK
+2024/09/03-13:00:08.642 928 Delete type=0 #85
+2024/09/03-13:01:27.585 928 Level-0 table #90: started
+2024/09/03-13:01:27.596 928 Level-0 table #90: 1836747 bytes OK
+2024/09/03-13:01:27.600 928 Delete type=0 #87
+2024/09/03-13:01:27.601 928 Compacting 4@0 + 1@1 files
+2024/09/03-13:01:27.609 928 Generated table #91@0: 6 keys, 42626 bytes
+2024/09/03-13:01:27.609 928 Compacted 4@0 + 1@1 files => 42626 bytes
+2024/09/03-13:01:27.611 928 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/03-13:01:27.612 928 Delete type=2 #82
+2024/09/03-13:01:27.612 928 Delete type=2 #84
+2024/09/03-13:01:27.612 928 Delete type=2 #86
+2024/09/03-13:01:27.612 928 Delete type=2 #88
+2024/09/03-13:01:27.613 928 Delete type=2 #90

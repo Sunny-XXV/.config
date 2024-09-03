@@ -1,0 +1,45 @@
+2024/09/03-13:03:56.273 973a Reusing MANIFEST /home/sunya/.config/google-chrome/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
+2024/09/03-13:03:56.273 973a Recovering log #89
+2024/09/03-13:03:56.277 973a Reusing old log /home/sunya/.config/google-chrome/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/000089.log 
+2024/09/03-13:04:04.467 973c Level-0 table #94: started
+2024/09/03-13:04:04.476 973c Level-0 table #94: 1836785 bytes OK
+2024/09/03-13:04:04.481 973c Delete type=0 #89
+2024/09/03-13:14:15.165 973c Level-0 table #96: started
+2024/09/03-13:14:15.176 973c Level-0 table #96: 1811067 bytes OK
+2024/09/03-13:14:15.179 973c Delete type=0 #93
+2024/09/03-13:34:36.127 973b Level-0 table #98: started
+2024/09/03-13:34:36.144 973b Level-0 table #98: 1806266 bytes OK
+2024/09/03-13:34:36.150 973b Delete type=0 #95
+2024/09/03-13:46:13.502 973b Level-0 table #100: started
+2024/09/03-13:46:13.520 973b Level-0 table #100: 1835975 bytes OK
+2024/09/03-13:46:13.525 973b Delete type=0 #97
+2024/09/03-13:46:13.528 973b Compacting 4@0 + 1@1 files
+2024/09/03-13:46:13.542 973b Generated table #101@0: 6 keys, 43040 bytes
+2024/09/03-13:46:13.543 973b Compacted 4@0 + 1@1 files => 43040 bytes
+2024/09/03-13:46:13.545 973b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/03-13:46:13.545 973b Delete type=2 #91
+2024/09/03-13:46:13.545 973b Delete type=2 #94
+2024/09/03-13:46:13.545 973b Delete type=2 #96
+2024/09/03-13:46:13.545 973b Delete type=2 #98
+2024/09/03-13:46:13.545 973b Delete type=2 #100
+2024/09/03-14:19:32.432 973b Level-0 table #103: started
+2024/09/03-14:19:32.448 973b Level-0 table #103: 1846364 bytes OK
+2024/09/03-14:19:32.451 973b Delete type=0 #99
+2024/09/03-14:52:41.816 973b Level-0 table #105: started
+2024/09/03-14:52:41.825 973b Level-0 table #105: 1827827 bytes OK
+2024/09/03-14:52:41.829 973b Delete type=0 #102
+2024/09/03-15:05:38.051 973a Level-0 table #107: started
+2024/09/03-15:05:38.069 973a Level-0 table #107: 1828958 bytes OK
+2024/09/03-15:05:38.072 973a Delete type=0 #104
+2024/09/03-15:28:16.093 973b Level-0 table #109: started
+2024/09/03-15:28:16.113 973b Level-0 table #109: 1835359 bytes OK
+2024/09/03-15:28:16.116 973b Delete type=0 #106
+2024/09/03-15:28:16.118 973b Compacting 4@0 + 1@1 files
+2024/09/03-15:28:16.127 973b Generated table #110@0: 6 keys, 46487 bytes
+2024/09/03-15:28:16.127 973b Compacted 4@0 + 1@1 files => 46487 bytes
+2024/09/03-15:28:16.130 973b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/03-15:28:16.131 973b Delete type=2 #101
+2024/09/03-15:28:16.131 973b Delete type=2 #103
+2024/09/03-15:28:16.131 973b Delete type=2 #105
+2024/09/03-15:28:16.131 973b Delete type=2 #107
+2024/09/03-15:28:16.131 973b Delete type=2 #109
